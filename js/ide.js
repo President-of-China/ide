@@ -1,4 +1,4 @@
-const API_KEY = ""; // Get yours for free at https://rapidapi.com/organization/judge0
+const API_KEY = "c368bc3c5cmsh629bd5984623a2fp1eb672jsn18b7ca7c57e9"; // Get yours for free at https://rapidapi.com/organization/judge0
 
 const AUTH_HEADERS = API_KEY ? {
     "X-RapidAPI-Key": API_KEY
